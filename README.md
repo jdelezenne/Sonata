@@ -33,20 +33,20 @@ Plugins provide platform-specific and third-party implementations (Direct3D, Ope
   * Serialization
 * IO
   * File Systems
-  ** Disk
-  ** Archive
+    * Disk
+    * Archive
   * Streams
-  ** Binary
-  ** Memory
-  ** Text
-  ** Console
+    * Binary
+    * Memory
+    * Text
+    * Console
 * Mathematics
-  ** Vectors, Matrices, and Quaternion
-  ** Bounding Box (AABB, OBB) and Bounding Sphere
-  ** Shapes: Plane, Frustum, Capsule, Cylinder
-  ** Computations (Projections, Euler Angles)
-  ** Interpolations
-  ** Intersections (Box, Sphere, Ray, Line)
+  * Vectors, Matrices, and Quaternion
+  * Bounding Box (AABB, OBB) and Bounding Sphere
+  * Shapes: Plane, Frustum, Capsule, Cylinder
+  * Computations (Projections, Euler Angles)
+  * Interpolations
+  * Intersections (Box, Sphere, Ray, Line)
 ## Debug
 * Log
   * Level
