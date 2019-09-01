@@ -1,0 +1,26 @@
+PROJECT_NAME      = "Sonata Engine"
+OUTPUT_DIRECTORY  = docs
+DETAILS_AT_TOP    = YES
+CASE_SENSE_NAMES  = NO
+SORT_MEMBER_DOCS  = YES
+FILE_PATTERNS     = *.cpp *.h
+INPUT             = Sources/Engine/ Sources/Framework/ #Sources/Plugins/ Sources/Samples/ Sources/Applications/
+RECURSIVE         = YES
+QUIET             = YES
+JAVADOC_AUTOBRIEF = YES
+EXTRACT_ALL       = YES
+WARN_LOGFILE      = docs/doxygen.log
+GENERATE_TODOLIST = YES
+SHOW_DIRECTORIES  = YES
+
+GENERATE_LATEX    = NO
+
+GENERATE_MAN      = NO
+
+GENERATE_RTF      = NO
+
+GENERATE_HTML     = YES
+GENERATE_HTMLHELP = YES
+GENERATE_CHI      = YES
+HHC_LOCATION      = "C:\Program Files\HTML Help Workshop\hhc.exe"
+CHM_FILE          = ../SonataEngine.chm

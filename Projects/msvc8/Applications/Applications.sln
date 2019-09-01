@@ -1,0 +1,38 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Procedural", "Procedural.vcproj", "{63BA8BB9-2E7C-4F7D-BA16-D6EB8AF3BF73}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Raytracer", "Raytracer.vcproj", "{D9C7CC7D-3063-42D8-B78F-540037DA8013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		DebugDLL|Win32 = DebugDLL|Win32
+		Release|Win32 = Release|Win32
+		ReleaseDLL|Win32 = ReleaseDLL|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63BA8BB9-2E7C-4F7D-BA16-D6EB8AF3BF73}.Debug|Win32.ActiveCfg = Debug|Win32
+		{63BA8BB9-2E7C-4F7D-BA16-D6EB8AF3BF73}.Debug|Win32.Build.0 = Debug|Win32
+		{63BA8BB9-2E7C-4F7D-BA16-D6EB8AF3BF73}.DebugDLL|Win32.ActiveCfg = DebugDLL|Win32
+		{63BA8BB9-2E7C-4F7D-BA16-D6EB8AF3BF73}.DebugDLL|Win32.Build.0 = DebugDLL|Win32
+		{63BA8BB9-2E7C-4F7D-BA16-D6EB8AF3BF73}.Release|Win32.ActiveCfg = Release|Win32
+		{63BA8BB9-2E7C-4F7D-BA16-D6EB8AF3BF73}.Release|Win32.Build.0 = Release|Win32
+		{63BA8BB9-2E7C-4F7D-BA16-D6EB8AF3BF73}.ReleaseDLL|Win32.ActiveCfg = ReleaseDLL|Win32
+		{63BA8BB9-2E7C-4F7D-BA16-D6EB8AF3BF73}.ReleaseDLL|Win32.Build.0 = ReleaseDLL|Win32
+		{D9C7CC7D-3063-42D8-B78F-540037DA8013}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D9C7CC7D-3063-42D8-B78F-540037DA8013}.Debug|Win32.Build.0 = Debug|Win32
+		{D9C7CC7D-3063-42D8-B78F-540037DA8013}.DebugDLL|Win32.ActiveCfg = DebugDLL|Win32
+		{D9C7CC7D-3063-42D8-B78F-540037DA8013}.DebugDLL|Win32.Build.0 = DebugDLL|Win32
+		{D9C7CC7D-3063-42D8-B78F-540037DA8013}.Release|Win32.ActiveCfg = Release|Win32
+		{D9C7CC7D-3063-42D8-B78F-540037DA8013}.Release|Win32.Build.0 = Release|Win32
+		{D9C7CC7D-3063-42D8-B78F-540037DA8013}.ReleaseDLL|Win32.ActiveCfg = ReleaseDLL|Win32
+		{D9C7CC7D-3063-42D8-B78F-540037DA8013}.ReleaseDLL|Win32.Build.0 = ReleaseDLL|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(DPCodeReviewSolutionGUID) = preSolution
+		DPCodeReviewSolutionGUID = {00000000-0000-0000-0000-000000000000}
+	EndGlobalSection
+EndGlobal
