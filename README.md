@@ -143,11 +143,11 @@ Plugins provide platform-specific and third-party implementations (Direct3D, Ope
 ## Physics
 * PhysX
 * ODE
-## Game Framework
+# Game Framework
 * Entity
 * Cameras
 * Messaging and Events
-## Formats
+# Formats
 * .ZIP
 * .DDS
 * .BMP
