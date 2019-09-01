@@ -1,8 +1,15 @@
 
 # Sonata Engine
-Sonata Engine is a personal project that demonstrate how to write a Game Engine Runtime including fundamental features using multiple APIs.
+Sonata Engine is a personal project that demonstrate how to write a Game Engine Runtime.
+
+It includes fundamental features such as Reflection, Serialization, Forward Rendering, Phsycis and UI.
+
+The Runtime is implementation on multiple APIs for different systems.
+
 The Runtime provides a common set of features that are platform-independent.
-Plugins provide platform-specific and third-party implementations.
+
+Plugins provide platform-specific and third-party implementations (Direct3D, OpenGL, PhysX...).
+
 # Platforms
 * Windows
 * SDL
@@ -157,3 +164,13 @@ Plugins provide platform-specific and third-party implementations.
 * Terrain Prototype (vehicle driving)
 * Sofware Rasterizer
 * Sofware Raytracer
+#Images
+![](Images/bsp.jpg)
+![](Images/stealth.jpg)
+![](Images/editor.jpg)
+![](Images/procedural.jpg)
+![](Images/terrain.jpg)
+![](Images/viewer.jpg)
+![](Images/physics1.jpg)
+![](Images/physics2.jpg)
+![](Images/rasterizer.jpg)
