@@ -13,6 +13,7 @@ Plugins provide platform-specific and third-party implementations (Direct3D, Ope
 # Platforms
 * Windows
 * SDL
+
 # Features 
 ## Core
 * Types
@@ -124,16 +125,17 @@ Plugins provide platform-specific and third-party implementations (Direct3D, Ope
 * Physics Materials
 * Collision (multiple shapes)
 * Software Implementation
-# AI
+## AI
 * State Machine (FSM)
 * Pathfinding (A*)
+
 # Third-Party
 ## Graphics
 * Diect3D 8
 * Diect3D 9
 * OpenGL
 * Cg
-# Audio
+## Audio
 * DirectSound 8
 * OpenAL
 ## Input
@@ -143,10 +145,12 @@ Plugins provide platform-specific and third-party implementations (Direct3D, Ope
 ## Physics
 * PhysX
 * ODE
+
 # Game Framework
 * Entity
 * Cameras
 * Messaging and Events
+
 # Formats
 * .ZIP
 * .DDS
@@ -160,6 +164,7 @@ Plugins provide platform-specific and third-party implementations (Direct3D, Ope
 ### Games
 * Quake Models (.MDL, .MD2, .MD3) and Maps (.BSP)
 * Unreal .PSK
+
 # Samples
 * Model Viewer
 * Physics Sandbox
@@ -171,6 +176,7 @@ Plugins provide platform-specific and third-party implementations (Direct3D, Ope
 * Terrain Prototype (vehicle driving)
 * Sofware Rasterizer
 * Sofware Raytracer
+
 # Images
 ![](Images/bsp.jpg)
 ![](Images/stealth.jpg)
