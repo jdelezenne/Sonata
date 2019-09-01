@@ -40,6 +40,13 @@ Plugins provide platform-specific and third-party implementations (Direct3D, Ope
   ** Memory
   ** Text
   ** Console
+* Mathematics
+  ** Vectors, Matrices, and Quaternion
+  ** Bounding Box (AABB, OBB) and Bounding Sphere
+  ** Shapes: Plane, Frustum, Capsule, Cylinder
+  ** Computations (Projections, Euler Angles)
+  ** Interpolations
+  ** Intersections (Box, Sphere, Ray, Line)
 ## Debug
 * Log
   * Level
