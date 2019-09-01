@@ -171,7 +171,7 @@ Plugins provide platform-specific and third-party implementations (Direct3D, Ope
 * Terrain Prototype (vehicle driving)
 * Sofware Rasterizer
 * Sofware Raytracer
-#Images
+# Images
 ![](Images/bsp.jpg)
 ![](Images/stealth.jpg)
 ![](Images/editor.jpg)
